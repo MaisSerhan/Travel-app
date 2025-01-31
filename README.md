@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=700px src="./result/image.png" alt="Project logo"></a>
+ <img width=700px src="./webpack-demo/result/image.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">webpack-demo</h3>
